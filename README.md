@@ -59,5 +59,14 @@ Once the webcam window is active, you can use the following keyboard shortcuts t
 
 The core of this application relies on **Haar Feature-based Cascade Classifiers**. It utilizes OpenCV's pre-trained `.xml` classifiers to quickly identify facial features in a live video stream in a highly efficient manner.
 
+## Contribution Team
+
+A big thank you to the team who made this project possible:
+- **Subhadip Naha**
+- **Udai Deb Roy**
+- **Trisha Bhowmik**
+- **Abar Saha**
+- **Sanjoy Deb**
+
 ---
 *Built by [Sanjoy-ui](https://github.com/Sanjoy-ui)*
