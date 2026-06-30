@@ -1,0 +1,21 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac
+.DS_Store
+
+# Images/Snapshots
+*.jpg
+*.jpeg
+*.png
+
+# IDEs
+.vscode/
+.idea/
