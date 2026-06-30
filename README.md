@@ -69,4 +69,3 @@ A big thank you to the team who made this project possible:
 - **Sanjoy Deb**
 
 ---
-*Built by [Sanjoy-ui](https://github.com/Sanjoy-ui)*
